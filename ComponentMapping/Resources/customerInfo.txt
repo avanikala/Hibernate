@@ -1,0 +1,7 @@
+Customer Info
+
+Customer Id: 57701
+Name: Avani Kala
+Place: Indore
+Age: 21
+D.O.B: 21/06/1997
